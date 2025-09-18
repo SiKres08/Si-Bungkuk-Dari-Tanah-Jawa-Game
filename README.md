@@ -24,4 +24,4 @@
 - **Desain Visual**: Flat Vector Art  
 
 ## 📥 Link Download
-👉 [Download disini!](https://drive.google.com/file/d/1YIc_r65-eDBhyx7Osbudo8_hKsK5Uqi8/view?usp=sharing](https://drive.google.com/file/d/1N2fheKc_SSEf3JoCBd-Ev_V5sK2EeYMs/view?usp=sharing ) 
+👉 [Download disini!](https://drive.google.com/file/d/1N2fheKc_SSEf3JoCBd-Ev_V5sK2EeYMs/view?usp=sharing)
