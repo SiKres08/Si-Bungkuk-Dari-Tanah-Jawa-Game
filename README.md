@@ -11,9 +11,11 @@
 
 ## 📸 Preview
 <p align="left">
-  <img src="Screenshot/ss3.jpg" alt="Screenshot" height="500"/>
-  <img src="Screenshot/ss1.jpg" alt="Screenshot" height="500"/>
-  <img src="Screenshot/ss2.jpg" alt="Screenshot" height="500"/>
+  <img src="Preview/image1.jpg" alt="image 1" height="500"/>
+  <img src="Preview/image2.jpg" alt="image 2" height="500"/>
+  <img src="Preview/image5.jpg" alt="image 3" height="500"/>
+  <img src="Preview/image8.jpg" alt="image 4" height="500"/>
+  <img src="Preview/image9.jpg" alt="image 5" height="500"/>
 </p>
 
 ## 🛠️ Teknologi
