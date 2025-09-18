@@ -1,6 +1,3 @@
-#!/bin/bash
-
-cat > README.md << 'EOF'
 # 🎮 Si Bungkuk dari Tanah Jawa  
 
 **Si Bungkuk dari Tanah Jawa** adalah game indie buatan sendiri dengan nuansa horor lokal yang terinspirasi dari cerita rakyat Jawa. Pemain akan berpetualang menghadapi suasana mistis, teka-teki, serta makhluk gaib khas tanah Jawa.  
