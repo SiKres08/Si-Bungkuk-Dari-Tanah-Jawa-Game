@@ -10,11 +10,16 @@
 - 🎮 Gameplay sederhana namun menegangkan.  
 
 ## 📸 Preview
-*(tambahkan screenshot atau gif gameplay di sini)*  
+<p align="left">
+  <img src="Screenshot/ss3.jpg" alt="Screenshot" height="500"/>
+  <img src="Screenshot/ss1.jpg" alt="Screenshot" height="500"/>
+  <img src="Screenshot/ss2.jpg" alt="Screenshot" height="500"/>
+</p>
 
 ## 🛠️ Teknologi
 - **Game Engine**: Unity  
 - **Bahasa Pemrograman**: C#  
-- **Desain Visual**: Vector & Pixel Art  
- 
-## Link Download
+- **Desain Visual**: Flat Vector Art  
+
+## 📥 Link Download
+👉 [Download disini!]([https://drive.google.com/file/d/1YIc_r65-eDBhyx7Osbudo8_hKsK5Uqi8/view?usp=sharing](https://drive.google.com/file/d/1N2fheKc_SSEf3JoCBd-Ev_V5sK2EeYMs/view?usp=sharing)) 
