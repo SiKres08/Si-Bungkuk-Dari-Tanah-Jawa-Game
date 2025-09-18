@@ -25,3 +25,4 @@
 
 ## 📥 Link Download
 👉 [Download disini!](https://drive.google.com/file/d/1N2fheKc_SSEf3JoCBd-Ev_V5sK2EeYMs/view?usp=sharing)
+**Catatan:** Game yang dibuat hanya masih tersedia untuk perangkat PC/Desktop dan belum dapat dimainkan pad perangkat mobile
